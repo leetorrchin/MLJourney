@@ -44,5 +44,9 @@ That's what I've learnt today.
 
 
 
-Struggle Questions:
+Struggle Exercises:
+is palindromic
+merge sorted
+remove elements
+reverse list
 
