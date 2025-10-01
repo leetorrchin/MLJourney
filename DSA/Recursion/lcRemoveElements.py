@@ -13,8 +13,6 @@ class Solution(object):
         if (head is None):
             return None
         head.next = self.removeElements(head.next, val)
-        if (head.next is None and head.val == val):
-            return None
         if (head.val == val):
             return head.next
         else:
