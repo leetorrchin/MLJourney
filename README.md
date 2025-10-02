@@ -11,3 +11,5 @@ Then, we will learn Sequel.
 
 Because we already understand large concepts of ML, we will then start to build 
 projects.
+ - This is when we'll learn how to import and work with files in Python, and 
+ familiarise ourselves with particular libraries (NumPy, Numbas, Matplotlibs)
